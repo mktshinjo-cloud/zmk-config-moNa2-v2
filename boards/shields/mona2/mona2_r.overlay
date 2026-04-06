@@ -89,9 +89,9 @@
 
 &zip_temp_layer {
     excluded-positions = <
-        11
-        12
-        13
+         7
+         8
+         9
         16 // J
         17 // K
         18 // L
