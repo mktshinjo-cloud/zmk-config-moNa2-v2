@@ -134,7 +134,7 @@
 &trans  &trans    &trans    &trans    &trans                    &trans           &kp LC(X)  &kp LC(C)      &kp LC(V)  &trans
 &trans  &mkp MB3  &mkp MB2  &mkp MB1  &trans            &trans  &kp LS(LC(TAB))  &mkp MB1   &mkp MB3       &mkp MB2   &kp LC(TAB)
 &trans  &trans    &trans    &trans    &trans  &trans    &trans  &trans           &mkp MB4   &kp LS(LC(T))  &mkp MB5   &trans
-&trans  &trans    &trans    &trans    &trans  &trans    &trans  &trans                                                &trans
+&trans  &trans    &trans    &trans    &trans  &trans    &trans  &trans                                                &kp LA(F4)
             >;
 
             sensor-bindings = <&scroll_up_down>;
