@@ -16,7 +16,7 @@ layers:
   - D
   - F
   - G
-  - /
+  - LANG1
   - H
   - J
   - K
@@ -27,20 +27,20 @@ layers:
   - C
   - V
   - B
-  - F14
-  - ENTER
+  - LANG2
+  - BACKSPACE
   - N
   - M
   - ','
   - .
-  - BACKSPACE
+  - /
   - LCTRL
   - LEFT WIN
   - F16
   - BACKSPACE
   - {t: ENTER, h: '2'}
   - {t: '&to_layer_0 LANG2', h: '3'}
-  - {t: '&to_layer_0 LANG1', h: '3'}
+  - {t: '&to_layer_0 ENTER', h: '3'}
   - {t: SPACE, h: '1'}
   - LEFT ALT
   '1':
