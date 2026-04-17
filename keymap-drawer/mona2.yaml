@@ -39,8 +39,8 @@ layers:
   - Sft+CAPSLOCK
   - BACKSPACE
   - {t: ENTER, h: '2'}
-  - {t: '&to_layer_0 LANG2', h: '3'}
-  - {t: '&to_layer_0 ENTER', h: '3'}
+  - {t: '&double_zero LANG2', h: '3'}
+  - {t: '&double_zero ENTER', h: '3'}
   - {t: SPACE, h: '1'}
   - LEFT ALT
   '1':
@@ -79,7 +79,7 @@ layers:
   - F10
   - {t: ▽, type: trans}
   - '0'
-  - {t: ▽, type: trans}
+  - '&double_zero'
   - .
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
