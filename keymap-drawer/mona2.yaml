@@ -35,7 +35,7 @@ layers:
   - .
   - /
   - LCTRL
-  - LEFT WIN
+  - {t: LEFT WIN, h: '4'}
   - Sft+CAPSLOCK
   - BACKSPACE
   - {t: ENTER, h: '2'}
@@ -207,12 +207,12 @@ layers:
   - {t: ▽, type: trans}
   - BT CLR
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
   - {type: held}
-  - {type: held}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - BT CLR ALL
   '5':
