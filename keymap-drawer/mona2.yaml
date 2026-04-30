@@ -40,7 +40,7 @@ layers:
   - BACKSPACE
   - {t: ENTER, h: '2'}
   - {t: '&double_zero LANG2', h: '3'}
-  - {t: END, h: '3'}
+  - {t: ENTER, h: '3'}
   - {t: SPACE, h: '1'}
   - LEFT ALT
   '1':
